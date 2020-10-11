@@ -19,9 +19,34 @@ Meetube is Meeting Record Manage System for Collaborate
 
 ## Discrption
 
+
+
+
 ## QnA
 ### Where is the related repo?
 [meetube-api-server](https://github.com/Mini-Tech-Meetup/meetube-api-server) : spring boot / kotlin
 
 [meetube-react](https://github.com/Mini-Tech-Meetup/meetube-react) : react / JS
 
+### Status
+| Catagory | Action                   | Status     |
+|----------|--------------------------|------------|
+| UI       | Front End UI/UX          | almost...? |
+| Logic    | File Upload              | O          |
+|          | Search Video             | O          |
+|          | View Detail Video        | O          |
+|          | Play Video               | O          |
+| Storage  | DB Save                  | O          |
+|          | Azure Storage Save       | O          |
+| AI       | Keyword Generate         | O          |
+|          | Full Contents (Captions) | O          |
+|          | Thumnail Generate        | Not Yet :( |
+|          | Auto Summary             | Not Yet :( |
+
+### Devloper
+|                     | Front-End          | Back-End                     | Etc                 |
+|---------------------|--------------------|------------------------------|---------------------|
+| 고세원 (dream365)   |                    | DB Access Docker ServerLogic | Back-End Manager    |
+| 백종현 (JHyunB)     |                    | AI                           | Video Indexer       |
+| 장준영 (JunYoung7)  | View Search Detail |                              | Front-End Manager   |
+| 이원준 (Lee-WonJun) | Upload File        | Server Logic                 | Azure/Video Indexer |

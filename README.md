@@ -17,9 +17,19 @@ Meetube is Meeting Record Manage System for Collaborate
 ![image](https://user-images.githubusercontent.com/10369528/95670287-23f9c880-0bc4-11eb-9b7f-353639fda4fb.png)
 
 
-## Discrption
-
-
+## Descrption
+#### Describe the problem it solves
+Due to the Corona 19 this year, many companies are working at home. As a result, meetings are also being held online. However, it is difficult to record all the meetings and proceed with them. This is because active participation in meetings is not possible, such as talking while writing notes. It is also not easy to grasp and record everything if the meeting is prolonged, even if you actively participate in the meeting. Therefore, we wanted to record an online meeting and analyze and summarize the contents of the entire meeting based on this video.
+#### What real-world impact it has
+For the above reasons, when conducting an online meeting, each person takes turns to take charge of the minutes, and the person focuses only on the minutes. This project will reduce the burden of recording minutes and allow everyone to focus only on meetings. In addition, after the meeting, it will be easy to find out what you don't remember in detail or what you need to check again.
+#### What technologies you used to make it
+•	React
+•	Spring boot
+•	Postgresql
+•	Azure Blob
+•	Azure Video indexer
+#### Future plans regarding the project
+Although it was not implemented during this hackathon, we would like to search for content through speaker name or time as well as simply analyzing the entire contents in the meeting video. In addition, we want to recognize the faces of the participants in the meeting and search the contents through their faces. This will allow everyone to focus on meetings without worrying about records by creating a meeting record management program.
 
 
 ## QnA

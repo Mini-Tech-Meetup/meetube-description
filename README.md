@@ -31,7 +31,7 @@ Meetube is Meeting Record Manage System for Collaborate
 ### Status
 | Catagory | Action                   | Status     |
 |----------|--------------------------|------------|
-| UI       | Front End UI/UX          | almost...? |
+| UI       | Front End UI/UX          | almost...? but have some error |
 | Logic    | File Upload              | O          |
 |          | Search Video             | O          |
 |          | View Detail Video        | O          |

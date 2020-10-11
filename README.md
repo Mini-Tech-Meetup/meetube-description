@@ -23,11 +23,11 @@ Due to the Corona 19 this year, many companies are working at home. As a result,
 #### What real-world impact it has
 For the above reasons, when conducting an online meeting, each person takes turns to take charge of the minutes, and the person focuses only on the minutes. This project will reduce the burden of recording minutes and allow everyone to focus only on meetings. In addition, after the meeting, it will be easy to find out what you don't remember in detail or what you need to check again.
 #### What technologies you used to make it
-•	React
-•	Spring boot
-•	Postgresql
-•	Azure Blob
-•	Azure Video indexer
++ React
++ Spring boot
++ Postgresql
++ Azure Blob
++ Azure Video indexer
 #### Future plans regarding the project
 Although it was not implemented during this hackathon, we would like to search for content through speaker name or time as well as simply analyzing the entire contents in the meeting video. In addition, we want to recognize the faces of the participants in the meeting and search the contents through their faces. This will allow everyone to focus on meetings without worrying about records by creating a meeting record management program.
 
